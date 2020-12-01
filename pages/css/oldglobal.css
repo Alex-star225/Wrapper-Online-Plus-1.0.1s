@@ -1,5 +1,5 @@
 html {
-	font-family: 'Sailec', Arial, sans-serif;
+	font-family: 'Lato', Arial, sans-serif;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 }
@@ -295,7 +295,7 @@ footer>a{
 @font-face {
 	font-family: 'Lato';
 	font-weight: 700;
-	src: url('../fonts/lato-bold.woff') format('woff');
+	src: url('../fonts/lato-medium.woff') format('woff');
 }
 
 @font-face {
